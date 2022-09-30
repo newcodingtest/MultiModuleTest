@@ -3,6 +3,7 @@ package com.example.son2;
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
+//test2
 @SpringBootApplication
 public class Son2Application {
 
