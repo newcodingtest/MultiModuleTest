@@ -1,0 +1,10 @@
+
+pluginManagement {
+    repositories {
+        gradlePluginPortal()
+    }
+}
+rootProject.name = 'parent'
+include 'son1'
+include 'son2'
+include 'son3'
